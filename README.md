@@ -63,19 +63,5 @@ Uses a simplified form of the Rutherford scattering formula:
 ![image](https://github.com/user-attachments/assets/43026748-5b9c-4262-8f1c-e0f9b018741a)
 
 
-📦 Project Structure
-
-/src/components/
-  └── RutherfordSimulation.tsx
-Main simulation logic and UI in a single React component using Canvas.
-
-
-🙌 Acknowledgments
-Inspired by the original Rutherford experiment.
-
-Animated visualizations powered by the Canvas API.
-
-TailwindCSS for clean, modern UI.
-
 
 
