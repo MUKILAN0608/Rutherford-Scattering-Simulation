@@ -3,7 +3,7 @@ An interactive web simulation of Rutherford’s alpha particle scattering experi
 📸 Demo
 https://github.com/user-attachments/assets/7bed0b39-d315-4c33-9d6c-371c6d3cab80
 
-)
+
 
 🎯 Features
 🎨 Real-time Canvas-based visualization of alpha particle trajectories.
