@@ -1,4 +1,4 @@
-# Rutherford-Scattering-Simulation
+#🧪 Rutherford-Scattering-Simulation
 An interactive web simulation of Rutherford’s alpha particle scattering experiment using React, TypeScript, and Canvas. Visualize how alpha particles scatter when fired at atomic nuclei, tweak experiment parameters in real-time, and observe particle paths and scattering angle distributions.
 📸 Demo
 https://github.com/user-attachments/assets/7bed0b39-d315-4c33-9d6c-371c6d3cab80
