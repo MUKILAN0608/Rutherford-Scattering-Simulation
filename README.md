@@ -4,7 +4,7 @@ An interactive web simulation of Rutherford’s alpha particle scattering experi
 https://github.com/user-attachments/assets/7bed0b39-d315-4c33-9d6c-371c6d3cab80
 )
 
-##🎯 Features
+🎯 Features
 🎨 Real-time Canvas-based visualization of alpha particle trajectories.
 
 📊 Dynamic histogram of scattering angle distribution.
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/7bed0b39-d315-4c33-9d6c-371c6d3cab80
 
 🎛️ Intuitive UI with controls for simulation parameters.
 
-##🧬 Concept
+🧬 Concept
 Based on Rutherford’s 1911 experiment, where alpha particles were directed at a thin gold foil to probe the structure of the atom. The simulation illustrates:
 
 Most particles passing straight through.
@@ -26,14 +26,14 @@ Some deflecting at small angles.
 
 Rare large-angle deflections revealing a dense, positively charged nucleus.
 
-##📚 Technologies Used
+📚 Technologies Used
 React with TypeScript
 
 HTML5 Canvas API for 2D rendering
 
 TailwindCSS for styled UI components
 
-##🚀 How to Run
+🚀 How to Run
 Clone the repository
 
 ```bash
@@ -44,7 +44,7 @@ cd rutherford-simulation
 ```
 Open http://localhost:3000 in your browser.
 
-##🎛️ Controls
+🎛️ Controls
 Start / Pause simulation
 
 Reset particles and histogram
@@ -57,20 +57,20 @@ Toggle Particle Paths
 
 Toggle Scattering Angle Distribution
 
-##📊 Physics Model
+📊 Physics Model
 Uses a simplified form of the Rutherford scattering formula:
 
 ![image](https://github.com/user-attachments/assets/43026748-5b9c-4262-8f1c-e0f9b018741a)
 
 
-##📦 Project Structure
+📦 Project Structure
 
 /src/components/
   └── RutherfordSimulation.tsx
 Main simulation logic and UI in a single React component using Canvas.
 
 
-##🙌 Acknowledgments
+🙌 Acknowledgments
 Inspired by the original Rutherford experiment.
 
 Animated visualizations powered by the Canvas API.
