@@ -1,40 +1,47 @@
-#🧪 Rutherford-Scattering-Simulation
-An interactive web simulation of Rutherford’s alpha particle scattering experiment using React, TypeScript, and Canvas. Visualize how alpha particles scatter when fired at atomic nuclei, tweak experiment parameters in real-time, and observe particle paths and scattering angle distributions.
-📸 Demo
+# 🧪 Rutherford Scattering Simulation
+
+An interactive web simulation of **Rutherford’s alpha particle scattering experiment** built with React, TypeScript, and Canvas. Visualize how alpha particles scatter when fired at atomic nuclei, tweak experiment parameters in real-time, and observe particle paths and scattering angle distributions.
+
+---
+
+## 📸 Demo
+
 https://github.com/user-attachments/assets/7bed0b39-d315-4c33-9d6c-371c6d3cab80
 
 
 
-🎯 Features
-🎨 Real-time Canvas-based visualization of alpha particle trajectories.
 
-📊 Dynamic histogram of scattering angle distribution.
+---
 
-⚙️ Adjustable nuclear charge (Z) and alpha particle energy.
+## 🎯 Features
 
-📈 Toggle options to display particle paths and angle histograms.
+- 🎨 Real-time Canvas-based visualization of alpha particle trajectories.
+- 📊 Dynamic histogram showing scattering angle distribution.
+- ⚙️ Adjustable nuclear charge (Z) and alpha particle energy.
+- 📈 Toggle options for particle paths and angle histograms.
+- 🔥 Physics-based trajectory calculation using a simplified Rutherford scattering formula.
+- 🎛️ Intuitive UI with interactive controls.
 
-🔥 Physics-based trajectory calculation using a simplified Rutherford scattering formula.
+---
 
-🎛️ Intuitive UI with controls for simulation parameters.
 
-🧬 Concept
-Based on Rutherford’s 1911 experiment, where alpha particles were directed at a thin gold foil to probe the structure of the atom. The simulation illustrates:
+## 🧬 Concept
+- Based on Rutherford’s 1911 experiment, where alpha particles were directed at a thin gold foil to probe the structure of the atom. The simulation illustrates:
 
-Most particles passing straight through.
+- Most particles passing straight through.
 
-Some deflecting at small angles.
+- Some deflecting at small angles.
 
-Rare large-angle deflections revealing a dense, positively charged nucleus.
+- Rare large-angle deflections revealing a dense, positively charged nucleus.
 
-📚 Technologies Used
+## 📚 Technologies Used
 React with TypeScript
 
 HTML5 Canvas API for 2D rendering
 
 TailwindCSS for styled UI components
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository
 
 ```bash
@@ -45,7 +52,7 @@ cd rutherford-simulation
 ```
 Open http://localhost:3000 in your browser.
 
-🎛️ Controls
+## 🎛️ Controls
 Start / Pause simulation
 
 Reset particles and histogram
@@ -58,7 +65,7 @@ Toggle Particle Paths
 
 Toggle Scattering Angle Distribution
 
-📊 Physics Model
+## 📊 Physics Model
 Uses a simplified form of the Rutherford scattering formula:
 
 ![image](https://github.com/user-attachments/assets/43026748-5b9c-4262-8f1c-e0f9b018741a)
