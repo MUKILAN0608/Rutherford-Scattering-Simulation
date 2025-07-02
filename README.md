@@ -45,7 +45,7 @@ TailwindCSS for styled UI components
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rutherford-simulation.git
+git clone https://github.com/MUKILAN0608/rutherford-simulation.git
 ```
 ```bash
 cd rutherford-simulation
